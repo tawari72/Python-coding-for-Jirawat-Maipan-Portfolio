@@ -1,2 +1,4 @@
-# my-sentiment-analysis-project
+# โปรเจคใช้สำหรับPortfolio
 โปรแกรมวิเคราะห์ความรู้สึกโดยใช้ Python
+Chatbot เบื้องต้นโดยใช้ Python
+โค้ดสำหรับPort Scanner ตรวจหาช่องโหว่ในเครือข่ายโดยใช้Python
